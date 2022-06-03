@@ -1,3 +1,3 @@
-module github.com/gen2brain/x264-go/x264c
+module github.com/st1992/x264-go/x264c
 
 go 1.16
